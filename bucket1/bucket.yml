@@ -1,6 +1,5 @@
 flows:
-  1e0e252b-89e5-4c76-b8e7-e2a25bfcd022: {ver: 2, file: Flow1.snapshot, comments: 'test2
-      (added generate flow file , putfile and invokehttp)', author: anonymous, created: 1754220006528,
-    flowName: Flow1, flowDesc: ''}
+  1e0e252b-89e5-4c76-b8e7-e2a25bfcd022: {ver: 3, file: Flow1.snapshot, comments: directory
+      changed, author: anonymous, created: 1754222044758, flowName: Flow1, flowDesc: ''}
 layoutVer: 1
 bucketId: d430ef74-ace8-44b4-9367-916a9fc1bb66
